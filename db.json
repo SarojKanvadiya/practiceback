@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "Saroj Kanvadiya",
+      "email": "sarojkanvadiya@gmail.com",
+      "password": "1234",
+      "gender": "female",
+      "mobile": "1234567890",
+      "id": 1
+    }
+  ],
+  "todos": []
+}
